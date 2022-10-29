@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="en" class="h-100">
+<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="">
+  <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
+  <meta name="generator" content="Hugo 0.79.0">
+  <title>English Words</title>
+
+  <link rel="canonical" href="index.html">
+
+
+
+  <!-- Bootstrap core CSS -->
+  <link href="https://getbootstrap.com/docs/5.0/dist/css/bootstrap.min.css" rel="stylesheet">
+
+  <style>
+    .bd-placeholder-img {
+      font-size: 1.125rem;
+      text-anchor: middle;
+      -webkit-user-select: none;
+      -moz-user-select: none;
+      user-select: none;
+    }
+
+    @media (min-width: 768px) {
+      .bd-placeholder-img-lg {
+        font-size: 3.5rem;
+      }
+    }
+  </style>
+
+  <!-- Custom styles for this template -->
+  <link href="cover.css" rel="stylesheet">
+</head>
+
+<body class="d-flex h-100 text-center text-black">
+
+  <div class="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
+    <header class="mb-auto">
+      <div>
+        <h3 class="float-md-start mb-0">English Words</h3>
+        <nav class="nav nav-masthead justify-content-center float-md-end">
+          <a class="nav-link active" aria-current="page" href="#">Home</a>
+        </nav>
+      </div>
+    </header>
+
+
+    <main class="px-3">
+      <h1 id="title"></h1>
+      <p class="lead" id="description"></p>
+      <img src="" alt="" id="image">
+      <p class="lead">
+        <!-- <a href="#" class="btn btn-secondary fw-bold border-white bg-white">Learn more</a> -->
+      </p>
+    </main>
+
+    <footer class="mt-auto text-black-50">
+      <p>myusuf.id</p>
+    </footer>
+  </div>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+  <script>
+ 
+    const getDictionary = async function(a, b) {
+      let response = await fetch('./dictionary.json');
+
+      return response.json();
+    }
+
+  
+
+    $(function(){
+        
+        function showDictionary(){
+           getDictionary().then((data) => {
+            var dictionary = data
+            var number = Math.floor(Math.random() * dictionary.length)
+            var item = dictionary[number];
+            $("#title").html(item.title)
+            $("#description").html(item.description)
+            $("#image").attr('src', item.image)
+          });
+        }
+
+        showDictionary()
+
+        setInterval(function(){
+          $("#title").html()
+          $("#description").html()
+          $("#image").attr('src', null)
+          showDictionary()
+        }, 5000);
+
+    })
+  </script>
+</body>
+
+</html>
