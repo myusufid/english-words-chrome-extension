@@ -13,9 +13,8 @@
   <link rel="canonical" href="index.html">
 
 
-
   <!-- Bootstrap core CSS -->
-  <link href="https://getbootstrap.com/docs/5.0/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link href="../../css/bootstrap.min.css" rel="stylesheet">
 
   <style>
     .bd-placeholder-img {
@@ -34,7 +33,9 @@
   </style>
 
   <!-- Custom styles for this template -->
-  <link href="cover.css" rel="stylesheet">
+  <link href="../../css/cover.css" rel="stylesheet">
+
+  <meta http-equiv="Content-Security-Policy" content="default-src *; style-src 'self' 'unsafe-inline'; script-src 'self' 'unsafe-inline' 'unsafe-eval'">
 </head>
 
 <body class="d-flex h-100 text-center text-black">
@@ -63,43 +64,9 @@
       <p>myusuf.id</p>
     </footer>
   </div>
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js"></script>
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-
-  <script>
- 
-    const getDictionary = async function(a, b) {
-      let response = await fetch('./dictionary.json');
-
-      return response.json();
-    }
-
-  
-
-    $(function(){
-        
-        function showDictionary(){
-           getDictionary().then((data) => {
-            var dictionary = data
-            var number = Math.floor(Math.random() * dictionary.length)
-            var item = dictionary[number];
-            $("#title").html(item.title)
-            $("#description").html(item.description)
-            $("#image").attr('src', item.image)
-          });
-        }
-
-        showDictionary()
-
-        setInterval(function(){
-          $("#title").html()
-          $("#description").html()
-          $("#image").attr('src', null)
-          showDictionary()
-        }, 5000);
-
-    })
-  </script>
+  <script src="../../js/jquery/bootstrap.bundle.min.js"></script>
+  <script src="../../js/jquery/jquery.min.js"></script>
+  <script src="../../js/app.js"></script>
 </body>
 
 </html>
