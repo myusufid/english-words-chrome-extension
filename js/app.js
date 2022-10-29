@@ -26,6 +26,6 @@ const getDictionary = async function(a, b) {
         $("#description").html()
         $("#image").attr('src', null)
         showDictionary()
-      }, 5000);
+      }, 10000);
 
   })
