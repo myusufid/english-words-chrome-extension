@@ -107,5 +107,57 @@
   {
     "title" : "Gabbing",
     "description" : "Mengobrol"
-  }
+  },
+  {
+    "title" : "Groaning",
+    "description" : "Rintihan"
+  },
+  {
+    "title" : "Grunting",
+    "description" : "Dengkur"
+  },
+  {
+    "title" : "Festering",
+    "description" : "Bernanah"
+  },
+  {
+    "title" : "Indistinc",
+    "description" : "Tidak Jelas"
+  },
+  {
+    "title" : "Gents",
+    "description" : "Tuan-tuan"
+  },
+  {
+    "title" : "Ambushed",
+    "description" : "Disergap"
+  },
+  {
+    "title" : "Siege",
+    "description" : "Pengepungan"
+  },
+  {
+    "title" : "Screeching",
+    "description" : "Melengking"
+  },
+  {
+    "title" : "Loose",
+    "description" : "Longgar"
+  },
+  {
+    "title" : "Pilfered",
+    "description" : "Kececeran"
+  },
+  {
+    "title" : "Grains",
+    "description" : "Biji-bijian"
+  },
+  {
+    "title" : "Transmutation",
+    "description" : "Perubahan"
+  },
+  {
+    "title" : "Scourge",
+    "description" : "Momok"
+  },
 ]
