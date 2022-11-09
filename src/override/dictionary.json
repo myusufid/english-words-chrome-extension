@@ -159,5 +159,121 @@
   {
     "title" : "Scourge",
     "description" : "Momok"
+  },
+  {
+    "title" : "Greed",
+    "description" : "Ketamakan"
+  },
+  {
+    "title" : "Dismount",
+    "description" : "Turun"
+  },
+  {
+    "title" : "Snarling",
+    "description" : "Gertakan"
+  },
+  {
+    "title" : "Grace",
+    "description" : "Anggun"
+  },
+  {
+    "title" : "Shater",
+    "description" : "Pecah"
+  },
+  {
+    "title" : "Spoil",
+    "description" : "Memanjakan"
+  },
+  {
+    "title" : "Saddle",
+    "description" : "Pelana"
+  },
+  {
+    "title" : "Pledged",
+    "description" : "Berjanji"
+  },
+  {
+    "title" : "Collateral",
+    "description" : "Jaminan"
+  },
+  {
+    "title" : "Props",
+    "description" : "Atribut"
+  },
+  {
+    "title" : "Sage",
+    "description" : "Orang Bijaksana"
+  },
+  {
+    "title" : "Intrigued",
+    "description" : "Tertarik"
+  },
+  {
+    "title" : "Holed Up",
+    "description" : "Bersembunyi"
+  },
+  {
+    "title" : "Toddler",
+    "description" : "Balita"
+  },
+  {
+    "title" : "Fierce",
+    "description" : "Garang"
+  },
+  {
+    "title" : "Whiplash",
+    "description" : "Pukulan Cemeti"
+  },
+  {
+    "title" : "Posh",
+    "description" : "Mewah"
+  },
+  {
+    "title" : "Outburst",
+    "description" : "Ledakan"
+  },
+  {
+    "title" : "Ointment",
+    "description" : "Salep"
+  },
+  {
+    "title" : "Sapped",
+    "description" : "Dilenyapkan"
+  },
+  {
+    "title" : "Riled Up",
+    "description" : "Kesal"
+  },
+  {
+    "title" : "Brink",
+    "description" : "Jurang"
+  },
+  {
+    "title" : "Bleached",
+    "description" : "Dikelantang"
+  },
+  {
+    "title" : "Efficacy",
+    "description" : "Kemanjuran"
+  },
+  {
+    "title" : "Preserve",
+    "description" : "Melestarikan"
+  },
+  {
+    "title" : "Drawback",
+    "description" : "Kekurangan"
+  },
+  {
+    "title" : "Bitter",
+    "description" : "Pahit"
+  },
+  {
+    "title" : "Disposable",
+    "description" : "Sekali Pakai"
+  },
+  {
+    "title" : "Disposable Income",
+    "description" : "Pendapatan yang dapat dibelanjakan"
   }
 ]
