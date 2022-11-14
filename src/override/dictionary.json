@@ -277,5 +277,17 @@
   {
     "title" : "Disposable Income",
     "description" : "Pendapatan yang dapat dibelanjakan"
+  },
+  {
+    "title" : "Recite",
+    "description" : "Membaca"
+  },
+  {
+    "title" : "Throat",
+    "description" : "Tenggorokan"
+  },
+  {
+    "title" : "Cavity",
+    "description" : "Rongga Mulut"
   }
 ]
