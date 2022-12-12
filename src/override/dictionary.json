@@ -1,5 +1,97 @@
 [
   {
+    "title": "Ashes",
+    "description": "Abu"
+  },
+  {
+    "title": "Sappy",
+    "description": "Berdaya"
+  },
+  {
+    "title": "Dukes",
+    "description": "Adipati"
+  },
+  {
+    "title": "Ushered",
+    "description": "Diantar"
+  },
+  {
+    "title": "Torch",
+    "description": "Obor"
+  },
+  {
+    "title": "Implore",
+    "description": "Mohon"
+  },
+  {
+    "title": "Oblivious",
+    "description": "Tidak Menyadari"
+  },
+  {
+    "title": "Deterrent",
+    "description": "Pencegah"
+  },
+  {
+    "title": "Sorcery",
+    "description": "Sihir"
+  },
+  {
+    "title": "Remarkably",
+    "description": "Sungguh"
+  },
+  {
+    "title": "Digestible",
+    "description": "Mudah Dicerna"
+  },
+  {
+    "title": "Extraneous",
+    "description": "Asing"
+  },
+  {
+    "title": "Peers",
+    "description": "Teman Sebaya"
+  },
+  {
+    "title": "Wholly",
+    "description": "Sepenuhnya"
+  },
+  {
+    "title": "Consensus",
+    "description": "Persetujuan Umum"
+  },
+  {
+    "title": "Charitable",
+    "description": "Sosial"
+  },
+  {
+    "title": "Outgrow",
+    "description": "Mengatasi"
+  },
+  {
+    "title": "Polishing",
+    "description": "Memoles"
+  },
+  {
+    "title": "Convey",
+    "description": "Mengangkut"
+  },
+  {
+    "title": "Bisect",
+    "description": "Membagi Dua"
+  },
+  {
+    "title": "Deliberately",
+    "description": "Dengan Sengaja"
+  },
+  {
+    "title": "Inevitable",
+    "description": "Tidak bisa dihindari"
+  },
+  {
+    "title": "Reflect",
+    "description": "Mencerminkan"
+  },
+  {
     "title": "Phony",
     "description": "Palsu"
   },
