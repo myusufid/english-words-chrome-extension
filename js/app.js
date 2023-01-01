@@ -102,6 +102,6 @@ $(function () {
 
     $("#image").attr('src', null)
     showDictionary()
-  }, 10000);
+  }, 20000);
 
 })
