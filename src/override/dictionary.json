@@ -1,5 +1,101 @@
 [
   {
+    "word": "Assassinated",
+    "definitions": [
+      "means to kill someone, especially a public figure, for political or ideological reasons"
+    ],
+    "context_programming": [
+      "In the context of programming, it could refer to someone being targeted and attacked or sabotaged because of their programming skills or projects"
+    ],
+    "examples": [
+      "The young programmer was assassinated by a rival company who wanted to steal her innovative new software",
+      "The assassination of the lead developer caused chaos and disruption within the team."
+    ],
+    "conversations": [
+      [
+        {
+          "person": "M Yusuf",
+          "statement": "Did you hear about the programmer who was assassinated last week?"
+        },
+        {
+          "person": "Elon Musk",
+          "statement": "Yes, I heard about it. It's such a tragedy. He was a brilliant developer with so much potential."
+        }
+      ]
+    ],
+    "synonyms": [
+      "murder", "slay", "kill"
+    ],
+    "antonyms": [
+      "save", "rescue",  "preserve"
+    ],
+    "image" : "https://user-images.githubusercontent.com/17339708/210173080-53fc6746-79cd-490b-bef6-fccfd9b4940d.png"
+  },
+  {
+    "word": "Nobles",
+    "definitions": [
+      "means belonging to a high social class, especially the aristocracy"
+    ],
+    "context_programming": [
+      "In the context of programming, it may not necessarily be applicable, as social class does not usually have a direct impact on one's programming abilities. However, it could be used metaphorically to describe someone who is highly skilled or respected in the field of programming"
+    ],
+    "examples": [
+      "John is a true noble of the programming world, with years of experience and numerous successful projects under his belt",
+      "The nobles of the tech industry gathered at the annual conference to discuss the latest trends and innovations in programming."
+    ],
+    "conversations": [
+      [
+        {
+          "person": "M Yusuf",
+          "statement": "Have you heard of John Carmack? He's a legend in the programming world."
+        },
+        {
+          "person": "Elon Musk",
+          "statement": "Yes, I've heard of him. He's a noble in the field, with so many groundbreaking contributions to the industry."
+        }
+      ]
+    ],
+    "synonyms": [
+      "aristocrat", "elite", "distinguished"
+    ],
+    "antonyms": [
+      "commoner", "plebeian",  "lowly"
+    ],
+    "image" : "https://www.wondriumdaily.com/wp-content/uploads/2019/10/header-20.jpg"
+  },
+  {
+    "word": "Plebs",
+    "definitions": [
+      "derogatory term that refers to ordinary people or the common people. It is often used to imply that someone is lower class or inferior."
+    ],
+    "context_programming": [
+      "In the context of programming, it could be used to describe beginner programmers or those who are not highly skilled or experienced"
+    ],
+    "examples": [
+      "These plebs don't even know how to write a simple for loop!",
+      "I can't believe I have to work with these plebs on this project."
+    ],
+    "conversations": [
+      [
+        {
+          "person": "M Yusuf",
+          "statement": "I don't understand why we have to work with these plebs on this project. They have no idea what they're doing."
+        },
+        {
+          "person": "Elon Musk",
+          "statement": "I know, it's frustrating. But we have to remember that everyone has to start somewhere. Let's try to be patient and help them learn."
+        }
+      ]
+    ],
+    "synonyms": [
+      "commoners", "masses", "lower class", "populace"
+    ],
+    "antonyms": [
+      "aristocracy", "elite", "upper class", "nobility"
+    ],
+    "image" : "https://cdn.comedy.co.uk/images/library/comedies/900x450_eps/p/plebs_0501.jpg"
+  },
+  {
     "title": "Belie",
     "description": "Mengingkari"
   },
@@ -218,7 +314,7 @@
   {
     "title": "Prejudice",
     "description": "prejudice refers to strong and unreasonable feelings which make you like some things but not others.",
-    "image" : "https://user-images.githubusercontent.com/17339708/200931352-52b3700b-51ee-448c-b258-d51ae37302b9.png"
+    "image": "https://user-images.githubusercontent.com/17339708/200931352-52b3700b-51ee-448c-b258-d51ae37302b9.png"
   },
   {
     "title": "Impediment",
@@ -231,275 +327,275 @@
   },
   {
     "title": "Pleasant",
-    "description" : "Menyenangkan"
+    "description": "Menyenangkan"
   },
   {
-    "title" : "Amalgamation",
-    "description" : "Penggabungan"
+    "title": "Amalgamation",
+    "description": "Penggabungan"
   },
   {
     "title": "Hostility",
-    "description" : "Permusuhan"
+    "description": "Permusuhan"
   },
   {
     "title": "Trespass",
     "description": "Pelanggaran",
-    "image" : "https://user-images.githubusercontent.com/17339708/200931905-da455cff-a83d-4118-9781-070f9a8d972d.png"
+    "image": "https://user-images.githubusercontent.com/17339708/200931905-da455cff-a83d-4118-9781-070f9a8d972d.png"
   },
   {
     "title": "Stumbled",
-    "description" : "Tersandung"
+    "description": "Tersandung"
   },
   {
     "title": "Thriving",
-    "description" : "Berkembang"
+    "description": "Berkembang"
   },
   {
     "title": "Kin",
-    "description" : "Kerabat"
+    "description": "Kerabat"
   },
   {
     "title": "Tin",
-    "description" : "Timah"
+    "description": "Timah"
   },
   {
     "title": "Dreaded",
-    "description" : "Ditakuti"
+    "description": "Ditakuti"
   },
   {
     "title": "Overshooting",
-    "description" : "Melampaui"
+    "description": "Melampaui"
   },
   {
     "title": "Exhilarating",
-    "description" : "Menggembirakan"
+    "description": "Menggembirakan"
   },
   {
     "title": "Harness",
-    "description" : "Memanfaatkan"
+    "description": "Memanfaatkan"
   },
   {
     "title": "Devastating",
-    "description" : "Menghancurkan"
+    "description": "Menghancurkan"
   },
   {
-    "title" : "Graceful",
-    "description" : "Anggun"
+    "title": "Graceful",
+    "description": "Anggun"
   },
   {
-    "title" : "Gust",
-    "description" : "Hembusan"
+    "title": "Gust",
+    "description": "Hembusan"
   },
   {
-    "title" : "Pyre",
-    "description" : "Onggokan Kayu Api"
+    "title": "Pyre",
+    "description": "Onggokan Kayu Api"
   },
   {
-    "title" : "Hassled",
-    "description" : "Direpotkan"
+    "title": "Hassled",
+    "description": "Direpotkan"
   },
   {
-    "title" : "Enforceable",
-    "description" : "(of a law or rule) possible to make people obey, or possible to make happen or be accepted"
+    "title": "Enforceable",
+    "description": "(of a law or rule) possible to make people obey, or possible to make happen or be accepted"
   },
   {
-    "title" : "Outward",
-    "description" : "Diluar"
+    "title": "Outward",
+    "description": "Diluar"
   },
   {
-    "title" : "Congruency",
-    "description" : "Keselarasan"
+    "title": "Congruency",
+    "description": "Keselarasan"
   },
   {
-    "title" : "Psyched up",
-    "description" : "Bersemangat"
+    "title": "Psyched up",
+    "description": "Bersemangat"
   },
   {
-    "title" : "Fizzle",
-    "description" : "Kebingungan"
+    "title": "Fizzle",
+    "description": "Kebingungan"
   },
   {
-    "title" : "Gabbing",
-    "description" : "Mengobrol"
+    "title": "Gabbing",
+    "description": "Mengobrol"
   },
   {
-    "title" : "Groaning",
-    "description" : "Rintihan"
+    "title": "Groaning",
+    "description": "Rintihan"
   },
   {
-    "title" : "Grunting",
-    "description" : "Dengkur"
+    "title": "Grunting",
+    "description": "Dengkur"
   },
   {
-    "title" : "Festering",
-    "description" : "Bernanah"
+    "title": "Festering",
+    "description": "Bernanah"
   },
   {
-    "title" : "Indistinc",
-    "description" : "Tidak Jelas"
+    "title": "Indistinc",
+    "description": "Tidak Jelas"
   },
   {
-    "title" : "Gents",
-    "description" : "Tuan-tuan"
+    "title": "Gents",
+    "description": "Tuan-tuan"
   },
   {
-    "title" : "Ambushed",
-    "description" : "Disergap"
+    "title": "Ambushed",
+    "description": "Disergap"
   },
   {
-    "title" : "Siege",
-    "description" : "Pengepungan"
+    "title": "Siege",
+    "description": "Pengepungan"
   },
   {
-    "title" : "Screeching",
-    "description" : "Melengking"
+    "title": "Screeching",
+    "description": "Melengking"
   },
   {
-    "title" : "Loose",
-    "description" : "Longgar"
+    "title": "Loose",
+    "description": "Longgar"
   },
   {
-    "title" : "Pilfered",
-    "description" : "Kececeran"
+    "title": "Pilfered",
+    "description": "Kececeran"
   },
   {
-    "title" : "Grains",
-    "description" : "Biji-bijian"
+    "title": "Grains",
+    "description": "Biji-bijian"
   },
   {
-    "title" : "Transmutation",
-    "description" : "Perubahan"
+    "title": "Transmutation",
+    "description": "Perubahan"
   },
   {
-    "title" : "Scourge",
-    "description" : "Momok"
+    "title": "Scourge",
+    "description": "Momok"
   },
   {
-    "title" : "Greed",
-    "description" : "Ketamakan"
+    "title": "Greed",
+    "description": "Ketamakan"
   },
   {
-    "title" : "Dismount",
-    "description" : "Turun"
+    "title": "Dismount",
+    "description": "Turun"
   },
   {
-    "title" : "Snarling",
-    "description" : "Gertakan"
+    "title": "Snarling",
+    "description": "Gertakan"
   },
   {
-    "title" : "Grace",
-    "description" : "Anggun"
+    "title": "Grace",
+    "description": "Anggun"
   },
   {
-    "title" : "Shater",
-    "description" : "Pecah"
+    "title": "Shater",
+    "description": "Pecah"
   },
   {
-    "title" : "Spoil",
-    "description" : "Memanjakan"
+    "title": "Spoil",
+    "description": "Memanjakan"
   },
   {
-    "title" : "Saddle",
-    "description" : "Pelana"
+    "title": "Saddle",
+    "description": "Pelana"
   },
   {
-    "title" : "Pledged",
-    "description" : "Berjanji"
+    "title": "Pledged",
+    "description": "Berjanji"
   },
   {
-    "title" : "Collateral",
-    "description" : "Jaminan"
+    "title": "Collateral",
+    "description": "Jaminan"
   },
   {
-    "title" : "Props",
-    "description" : "Atribut"
+    "title": "Props",
+    "description": "Atribut"
   },
   {
-    "title" : "Sage",
-    "description" : "Orang Bijaksana"
+    "title": "Sage",
+    "description": "Orang Bijaksana"
   },
   {
-    "title" : "Intrigued",
-    "description" : "Tertarik"
+    "title": "Intrigued",
+    "description": "Tertarik"
   },
   {
-    "title" : "Holed Up",
-    "description" : "Bersembunyi"
+    "title": "Holed Up",
+    "description": "Bersembunyi"
   },
   {
-    "title" : "Toddler",
-    "description" : "Balita"
+    "title": "Toddler",
+    "description": "Balita"
   },
   {
-    "title" : "Fierce",
-    "description" : "Garang"
+    "title": "Fierce",
+    "description": "Garang"
   },
   {
-    "title" : "Whiplash",
-    "description" : "Pukulan Cemeti"
+    "title": "Whiplash",
+    "description": "Pukulan Cemeti"
   },
   {
-    "title" : "Posh",
-    "description" : "Mewah"
+    "title": "Posh",
+    "description": "Mewah"
   },
   {
-    "title" : "Outburst",
-    "description" : "Ledakan"
+    "title": "Outburst",
+    "description": "Ledakan"
   },
   {
-    "title" : "Ointment",
-    "description" : "Salep"
+    "title": "Ointment",
+    "description": "Salep"
   },
   {
-    "title" : "Sapped",
-    "description" : "Dilenyapkan"
+    "title": "Sapped",
+    "description": "Dilenyapkan"
   },
   {
-    "title" : "Riled Up",
-    "description" : "Kesal"
+    "title": "Riled Up",
+    "description": "Kesal"
   },
   {
-    "title" : "Brink",
-    "description" : "Jurang"
+    "title": "Brink",
+    "description": "Jurang"
   },
   {
-    "title" : "Bleached",
-    "description" : "Dikelantang"
+    "title": "Bleached",
+    "description": "Dikelantang"
   },
   {
-    "title" : "Efficacy",
-    "description" : "Kemanjuran"
+    "title": "Efficacy",
+    "description": "Kemanjuran"
   },
   {
-    "title" : "Preserve",
-    "description" : "Melestarikan"
+    "title": "Preserve",
+    "description": "Melestarikan"
   },
   {
-    "title" : "Drawback",
-    "description" : "Kekurangan"
+    "title": "Drawback",
+    "description": "Kekurangan"
   },
   {
-    "title" : "Bitter",
-    "description" : "Pahit"
+    "title": "Bitter",
+    "description": "Pahit"
   },
   {
-    "title" : "Disposable",
-    "description" : "Sekali Pakai"
+    "title": "Disposable",
+    "description": "Sekali Pakai"
   },
   {
-    "title" : "Disposable Income",
-    "description" : "Pendapatan yang dapat dibelanjakan"
+    "title": "Disposable Income",
+    "description": "Pendapatan yang dapat dibelanjakan"
   },
   {
-    "title" : "Recite",
-    "description" : "Membaca"
+    "title": "Recite",
+    "description": "Membaca"
   },
   {
-    "title" : "Throat",
-    "description" : "Tenggorokan"
+    "title": "Throat",
+    "description": "Tenggorokan"
   },
   {
-    "title" : "Cavity",
-    "description" : "Rongga Mulut"
+    "title": "Cavity",
+    "description": "Rongga Mulut"
   }
 ]
