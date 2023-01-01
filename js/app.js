@@ -11,7 +11,7 @@ $(function () {
   function showDictionary() {
     getDictionary().then((data) => {
       var dictionary = data
-      var number = Math.floor(Math.random() * 4)
+      var number = Math.floor(Math.random() * dictionary.length)
       var item = dictionary[number];
       $("#title").html(item.title)
       $("#word").html(item.word)
