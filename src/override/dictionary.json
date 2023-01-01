@@ -1,5 +1,66 @@
 [
   {
+    "word": "Crappy",
+    "definitions": [
+      "means of poor quality or lacking in value"
+    ],
+    "examples": [
+      "The programmer was disappointed with the new software update because it was full of bugs and seemed really crappy.",
+      "The company's website had a terrible user interface and was generally considered to be a crappy product."
+    ],
+    "conversations": [
+      [
+        {
+          "person": "Jane",
+          "statement": "Have you tried the new app from that startup company?"
+        },
+        {
+          "person": "Tom",
+          "statement": "Yeah, it was really crappy. The UI was confusing and it kept crashing on me."
+        }
+      ]
+    ],
+    "synonyms": [
+      "poor quality",
+      "inferior",
+      "subpar"
+    ],
+    "antonyms": [
+      "excellent",
+      "high quality",
+      "superior"
+    ],
+    "image": ""
+  },
+  {
+    "word": "Bellyaching",
+    "definitions": [
+      "means to complain or moan excessively about something"
+    ],
+    "examples": [
+      "The programmer was constantly bellyaching about the long hours and difficult deadlines.",
+      "I'm tired of all the bellyaching from my team members. We need to focus on finding solutions instead of complaining."
+    ],
+    "conversations": [
+      [{
+          "person": "M Yusuf",
+          "statement": "Why are you always bellyaching about the project? Can't you just put in some effort and get it done?"
+        },
+        {
+          "person": "Elon Musk",
+          "statement": "I'm sorry, I just feel overwhelmed with all the work. But I'll try to stop complaining and focus on getting it done."
+        }
+      ]
+    ],
+    "synonyms": [
+      "whining", "moaning", "griping"
+    ],
+    "antonyms": [
+      "appreciating", "thanking", "praising"
+    ],
+    "image": ""
+  },
+  {
     "word": "Discontent",
     "definitions": [
       "a feeling of dissatisfaction or restlessness"
@@ -12,8 +73,7 @@
       "The team was feeling discontent with the company's management, feeling that their concerns and ideas were not being heard or valued"
     ],
     "conversations": [
-      [
-        {
+      [{
           "person": "Linus Torvalds",
           "statement": "I'm starting to feel really discontent with this project. It's just not as interesting or rewarding as I thought it would be."
         },
@@ -48,8 +108,7 @@
       "The team dynamic was tumultuous, with frequent arguments and misunderstandings hindering progress and causing delays"
     ],
     "conversations": [
-      [
-        {
+      [{
           "person": "Tim Berners-Lee",
           "statement": "This project has been really tumultuous. I feel like we're constantly reacting to changes and problems rather than proactively planning and executing."
         },
@@ -84,8 +143,7 @@
       "The developer had to remind himself to simmer down and think logically when debugging the code, rather than getting overwhelmed and making mistakes"
     ],
     "conversations": [
-      [
-        {
+      [{
           "person": "Alan Turing",
           "statement": "Everyone, please simmer down and let's try to find a solution to this problem calmly and logically."
         },
@@ -120,8 +178,7 @@
       "The team set course for the new feature, breaking it down into smaller tasks and assigning them to individual team members"
     ],
     "conversations": [
-      [
-        {
+      [{
           "person": "Bill Gates",
           "statement": "We need to set course for this project and make sure everyone is on the same page. What are the main goals we're trying to achieve?"
         },
@@ -156,8 +213,7 @@
       "The team was torn between using a new framework that promised faster development time and sticking with their tried and true methodologies"
     ],
     "conversations": [
-      [
-        {
+      [{
           "person": "Linus Torvalds",
           "statement": "I'm feeling really torn about this project. On one hand, I want to be innovative and try out the new framework, but on the other hand, I'm afraid it's not stable enough and could cause problems down the line."
         },
