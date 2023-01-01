@@ -1,5 +1,181 @@
 [
   {
+    "word": "Discontent",
+    "definitions": [
+      "a feeling of dissatisfaction or restlessness"
+    ],
+    "context_programming": [
+      "In the context of programming, it could refer to a developer feeling unhappy or unhappy with their current project or working environment"
+    ],
+    "examples": [
+      "The programmer was feeling discontent with her current project, feeling that it was not challenging or meaningful enough",
+      "The team was feeling discontent with the company's management, feeling that their concerns and ideas were not being heard or valued"
+    ],
+    "conversations": [
+      [
+        {
+          "person": "Linus Torvalds",
+          "statement": "I'm starting to feel really discontent with this project. It's just not as interesting or rewarding as I thought it would be."
+        },
+        {
+          "person": "Mark Zuckerberg",
+          "statement": "I understand how you feel. Maybe we can talk to the project manager and see if there are any ways to make it more fulfilling or challenging for you."
+        }
+      ]
+    ],
+    "synonyms": [
+      "dissatisfaction",
+      "unhappiness",
+      "restlessness"
+    ],
+    "antonyms": [
+      "satisfaction",
+      "happiness",
+      "contentment"
+    ],
+    "image": "https://user-images.githubusercontent.com/17339708/210174936-33a6f2b2-79d1-45a6-a732-91e79a3a3fd8.png"
+  },
+  {
+    "word": "Tumultuous",
+    "definitions": [
+      "marked by turmoil, chaos, or disturbance"
+    ],
+    "context_programming": [
+      "In the context of programming, it could be used to describe a situation that is highly chaotic or tumultuous, such as a tumultuous software development project or a tumultuous team dynamic"
+    ],
+    "examples": [
+      "The software development project was tumultuous, with constant changes in requirements and tight deadlines causing stress and conflict within the team",
+      "The team dynamic was tumultuous, with frequent arguments and misunderstandings hindering progress and causing delays"
+    ],
+    "conversations": [
+      [
+        {
+          "person": "Tim Berners-Lee",
+          "statement": "This project has been really tumultuous. I feel like we're constantly reacting to changes and problems rather than proactively planning and executing."
+        },
+        {
+          "person": "Marissa Mayer",
+          "statement": "I know it's been tough, but we have to try to stay focused and find ways to address the turmoil and move forward."
+        }
+      ]
+    ],
+    "synonyms": [
+      "chaotic",
+      "disturbed",
+      "turbulent"
+    ],
+    "antonyms": [
+      "calm",
+      "peaceful",
+      "orderly"
+    ],
+    "image": "https://user-images.githubusercontent.com/17339708/210174601-82b6d1d6-79d0-49ce-8f97-d7f1482d94b7.png"
+  },
+  {
+    "word": "Simmer Down",
+    "definitions": [
+      "to become calm or less agitated"
+    ],
+    "context_programming": [
+      "In the context of programming, it could be used to tell a team member or colleague to take a deep breath and approach a problem with a more level-headed approach"
+    ],
+    "examples": [
+      "The project manager had to tell the team to simmer down and focus on finding a solution to the bug, rather than getting frustrated and arguing with each other",
+      "The developer had to remind himself to simmer down and think logically when debugging the code, rather than getting overwhelmed and making mistakes"
+    ],
+    "conversations": [
+      [
+        {
+          "person": "Alan Turing",
+          "statement": "Everyone, please simmer down and let's try to find a solution to this problem calmly and logically."
+        },
+        {
+          "person": "Grace Hopper",
+          "statement": "You're right, Alan. Let's all take a deep breath and approach this with a clear head."
+        }
+      ]
+    ],
+    "synonyms": [
+      "calm",
+      "cool",
+      "relax"
+    ],
+    "antonyms": [
+      "agitate",
+      "excite",
+      "frenzy"
+    ],
+    "image": "https://user-images.githubusercontent.com/17339708/210174257-f6dbdd4a-79cf-4a7c-a5d5-715f8f6ac22e.png"
+  },
+  {
+    "word": "Set Course",
+    "definitions": [
+      "to determine or establish a direction or plan of action"
+    ],
+    "context_programming": [
+      "In the context of programming, it could refer to setting the direction or goal of a project or determining the steps needed to achieve a certain outcome"
+    ],
+    "examples": [
+      "The project manager set course for the development team, outlining the necessary milestones and deadlines",
+      "The team set course for the new feature, breaking it down into smaller tasks and assigning them to individual team members"
+    ],
+    "conversations": [
+      [
+        {
+          "person": "Bill Gates",
+          "statement": "We need to set course for this project and make sure everyone is on the same page. What are the main goals we're trying to achieve?"
+        },
+        {
+          "person": "Steve Jobs",
+          "statement": "The main goal is to create a user-friendly interface and improve performance. We should also consider the potential for future expansion and scalability."
+        }
+      ]
+    ],
+    "synonyms": [
+      "determine",
+      "establish",
+      "plan"
+    ],
+    "antonyms": [
+      "disrupt",
+      "derail",
+      "deviate"
+    ],
+    "image": "https://user-images.githubusercontent.com/17339708/210173915-8f85bcec-79cf-4236-a96b-8d81a9d9f931.png"
+  },
+  {
+    "word": "Torn",
+    "definitions": [
+      "to be divided or separated by conflicting loyalties, interests, or feelings"
+    ],
+    "context_programming": [
+      "In the context of programming, it could refer to a developer feeling pulled in different directions by competing priorities or conflicting requirements for a project"
+    ],
+    "examples": [
+      "The programmer was torn between his desire to meet the project deadline and his need to maintain high quality code",
+      "The team was torn between using a new framework that promised faster development time and sticking with their tried and true methodologies"
+    ],
+    "conversations": [
+      [
+        {
+          "person": "Linus Torvalds",
+          "statement": "I'm feeling really torn about this project. On one hand, I want to be innovative and try out the new framework, but on the other hand, I'm afraid it's not stable enough and could cause problems down the line."
+        },
+        {
+          "person": "Mark Zuckerberg",
+          "statement": "I understand where you're coming from. It's always tough to balance the desire for progress with the need for stability. Maybe we can find a compromise or another solution."
+        }
+      ]
+    ],
+    "synonyms": [
+      "divided", "conflicted", "schizophrenic"
+    ],
+    "antonyms": [
+      "whole", "unified", "undivided"
+    ],
+    "image": "https://user-images.githubusercontent.com/17339708/210173508-6bc9de6e-79ce-4e6d-8e2e-f91b0a7dc69c.png"
+  },
+  {
     "word": "Assassinated",
     "definitions": [
       "means to kill someone, especially a public figure, for political or ideological reasons"
@@ -12,8 +188,7 @@
       "The assassination of the lead developer caused chaos and disruption within the team."
     ],
     "conversations": [
-      [
-        {
+      [{
           "person": "M Yusuf",
           "statement": "Did you hear about the programmer who was assassinated last week?"
         },
@@ -27,9 +202,9 @@
       "murder", "slay", "kill"
     ],
     "antonyms": [
-      "save", "rescue",  "preserve"
+      "save", "rescue", "preserve"
     ],
-    "image" : "https://user-images.githubusercontent.com/17339708/210173080-53fc6746-79cd-490b-bef6-fccfd9b4940d.png"
+    "image": "https://user-images.githubusercontent.com/17339708/210173080-53fc6746-79cd-490b-bef6-fccfd9b4940d.png"
   },
   {
     "word": "Nobles",
@@ -44,8 +219,7 @@
       "The nobles of the tech industry gathered at the annual conference to discuss the latest trends and innovations in programming."
     ],
     "conversations": [
-      [
-        {
+      [{
           "person": "M Yusuf",
           "statement": "Have you heard of John Carmack? He's a legend in the programming world."
         },
@@ -59,9 +233,9 @@
       "aristocrat", "elite", "distinguished"
     ],
     "antonyms": [
-      "commoner", "plebeian",  "lowly"
+      "commoner", "plebeian", "lowly"
     ],
-    "image" : "https://www.wondriumdaily.com/wp-content/uploads/2019/10/header-20.jpg"
+    "image": "https://www.wondriumdaily.com/wp-content/uploads/2019/10/header-20.jpg"
   },
   {
     "word": "Plebs",
@@ -76,8 +250,7 @@
       "I can't believe I have to work with these plebs on this project."
     ],
     "conversations": [
-      [
-        {
+      [{
           "person": "M Yusuf",
           "statement": "I don't understand why we have to work with these plebs on this project. They have no idea what they're doing."
         },
@@ -93,7 +266,7 @@
     "antonyms": [
       "aristocracy", "elite", "upper class", "nobility"
     ],
-    "image" : "https://cdn.comedy.co.uk/images/library/comedies/900x450_eps/p/plebs_0501.jpg"
+    "image": "https://cdn.comedy.co.uk/images/library/comedies/900x450_eps/p/plebs_0501.jpg"
   },
   {
     "title": "Belie",
