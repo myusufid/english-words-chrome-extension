@@ -12,7 +12,7 @@ This is a personal project to help me remember new words or vocabulary.
 3. Chrome -> More Tools -> Extensions -> Load Unpacked
 
 ## Update
-1. Chrome -> More Tools -> Extensions -> Load Unpacked
+1. Chrome -> More Tools -> Extensions
 2. Search english words extension
 3. Click Reload
 
